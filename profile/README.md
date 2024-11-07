@@ -1,3 +1,3 @@
 # RLHF & Friends
 
-Rain all day fine tuning all night
+Rain all day, fine-tuning all night
